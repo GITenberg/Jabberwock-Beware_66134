@@ -1,0 +1,23 @@
+_repo: Jabberwock-Beware_66134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sternbach, Richard A.
+    gutenberg_agent_id: '33970'
+    url: http://www.gutenberg.org/2009/agents/33970
+description: ''
+gutenberg_issued: '2021-08-25'
+identifiers:
+  gutenberg: '66134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: Jabberwock, Beware!
+url: http://www.gutenberg.org/ebooks/66134
